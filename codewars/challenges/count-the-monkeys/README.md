@@ -70,7 +70,6 @@ https://youtu.be/VBisYLs6j-Y
 https://lnkd.in/p/eANumRBy
 
 💬 Reddit:
-https://www.reddit.com/r/PythonLearning/s/bzJC3nuwrh
+
 
 🐦 X:
-https://x.com/NasrDrai95715/status/2076752515069083956
