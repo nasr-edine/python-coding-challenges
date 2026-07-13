@@ -69,7 +69,10 @@ https://youtu.be/VBisYLs6j-Y
 💼 LinkedIn:
 https://lnkd.in/p/eANumRBy
 
-💬 Reddit:
+💬 Reddit: 
+https://www.reddit.com/r/PythonLearning/s/mGR6ju1GVW
 
 
-🐦 X:
+🐦 X: 
+https://x.com/NasrDrai95715/status/2076776343312744582
+
