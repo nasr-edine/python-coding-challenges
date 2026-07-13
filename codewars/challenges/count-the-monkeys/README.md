@@ -32,15 +32,16 @@ Output:
 
 
 
-## Approach
+## My Approach
 
-I used Python's `range()` function to generate the sequence of numbers.
+I created a list with the required size and filled it using a `for` loop.
 
 Steps:
 
-1. Start from 1
-2. Generate numbers until `n`
-3. Convert the sequence into a list
+1. Create a list containing `n` elements
+2. Iterate through the list indexes
+3. Assign values from 1 to `n`
+4. Return the final list
 
 
 ## Complexity Analysis
@@ -50,10 +51,26 @@ Time complexity: O(n)
 Space complexity: O(n)
 
 
-## What I learned
+## What I Learned
 
 This challenge helped me practice:
 
 - Python lists
-- The `range()` function
-- Basic algorithm implementation
+- List indexing
+- For loops
+- Returning data from functions
+
+
+## Related Content
+
+🎥 YouTube:
+https://youtu.be/VBisYLs6j-Y
+
+💼 LinkedIn:
+https://lnkd.in/p/eANumRBy
+
+💬 Reddit:
+https://www.reddit.com/r/PythonLearning/s/bzJC3nuwrh
+
+🐦 X:
+https://x.com/NasrDrai95715/status/2076752515069083956
